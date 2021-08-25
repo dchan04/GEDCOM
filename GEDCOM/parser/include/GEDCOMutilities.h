@@ -1,6 +1,5 @@
  /**
  * @file LinkedListAPI.h
- * based on the ListADT from CIS*2520, S17
  * @brief File containing the function definitions of a doubly linked list
  */
 

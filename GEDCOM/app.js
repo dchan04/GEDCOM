@@ -30,7 +30,7 @@ const portNum = 3000;
 
 // Send HTML at root, do not change
 app.get('/',function(req,res){
-  res.sendFile(path.join(__dirname+'/public/index.html'));
+  res.sendFile(path.join(__dirname+'/public/home.html'));
 });
 
 // Send Style, do not change
