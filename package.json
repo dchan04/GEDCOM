@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express-fileupload": "^1.2.1",
+    "ffi": "^2.3.0",
+    "formidable": "^1.2.2",
+    "javascript-obfuscator": "^2.15.0",
+    "mysql": "^2.18.1",
+    "mysql-server": "^1.0.5"
+  }
+}
